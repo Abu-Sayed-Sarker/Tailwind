@@ -1,0 +1,12 @@
+{
+  "name": "tewindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
